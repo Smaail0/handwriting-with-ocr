@@ -1,0 +1,45 @@
+1_cp.png	1 comprimé
+1_cp_jour.png	1 comprimé par jour
+1_cp-comprimé	1 comprimé
+1_dose.png	1 dose
+1_ftc.png	1 ftc
+1_mois.png	1 mois
+1_stick.png	1 stick
+1_tablet.png	1 tablet
+1_upx2j.png	1 tablet chaque 2 jours
+2x3.png		2 fois par jour pendant 3 jours
+5_mg.png	5 mg
+5_ml.png	5 ml
+250_mg.png	250 mg
+à_jeun.png	Prendre à jeun
+abdallah.png	Abdallah
+allergus.png	Allergus
+aprés.png	Après
+au_coucher.png	Prendre au coucher
+bt_15.png	Boite de 15
+calcifast.png	Calcifast
+Clarina.png	Clarina
+copred_20.png	Copred 20mg
+de_5_mg.png	de 5 mg
+dolirhume.png	Dolirhume
+dricod.png	Dricod
+e.c.b.u.png	E.C.B.U
+eludril.png	Eludril
+esoral_20_mg.png	Esoral 20mg
+gaviscon.png	Gaviscon
+gaviscon_2.png	Gaviscon
+gouttes.png	gouttes
+jaziri.png	Jaziri
+jaziri_2.png	Jaziri
+karra.png	Karra
+latifa.png	Latifa
+les.png		les
+ouerghi.png	Ouerghi
+oxyboldine.png	Oxyboldine
+prospan_syrup.png	Prospan Syrup
+repas.png	repas
+sachets.png	sachets
+stevia.png	Stevia
+yakine.png	Yakine
+yakine_2.png	Yakine
+zithromax_500	Zithromax 500mg
