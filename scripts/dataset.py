@@ -20,26 +20,20 @@ class HandwritingDataset(Dataset):
     
     def __getitem__(self, idx):
         img_path, label = self.samples[idx]
-        
         img_full_path = os.path.normpath(os.path.join(self.image_folder, img_path))
 
-        # Debugging print
-        print(f"Trying to open: {img_full_path}")
+        # Debugging: Print what Python thinks the path is
+        print(f"Trying to open: {repr(img_full_path)}")  # Use repr() to see hidden characters
 
         # Check if file exists
         if not os.path.exists(img_full_path):
             raise FileNotFoundError(f"Image not found: {img_full_path}")
 
-        # Load image
         img = Image.open(img_full_path).convert("RGB")
-
-        # Apply transformations (this converts to tensor)
         if self.transform:
             img = self.transform(img)
-        else:
-            raise ValueError("Transformations must be applied to convert PIL images to tensors.")
-
-        return img, label  # ✅ Returns (Tensor, Label)
+        return img, label
+        # ✅ Returns (Tensor, Label)
 
 # Define transformations
 transform = transforms.Compose([

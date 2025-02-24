@@ -1,14 +1,14 @@
 1_cp.png	1 comprimé
 1_cp_jour.png	1 comprimé par jour
-1_cp-comprimé	1 comprimé
+1_cp_comprimé.png	1 comprimé
 1_dose.png	1 dose
 1_ftc.png	1 ftc
 1_mois.png	1 mois
 1_stick.png	1 stick
 1_tablet.png	1 tablet
 1_upx2j.png	1 tablet chaque 2 jours
-2x3.png		2 fois par jour pendant 3 jours
-5_mg.png	5 mg
+2x3.png	2 fois par jour pendant 3 jours
+5__mg.png	5 mg
 5_ml.png	5 ml
 250_mg.png	250 mg
 à_jeun.png	Prendre à jeun
@@ -33,7 +33,7 @@ jaziri.png	Jaziri
 jaziri_2.png	Jaziri
 karra.png	Karra
 latifa.png	Latifa
-les.png		les
+les.png	les
 ouerghi.png	Ouerghi
 oxyboldine.png	Oxyboldine
 prospan_syrup.png	Prospan Syrup
@@ -42,4 +42,113 @@ sachets.png	sachets
 stevia.png	Stevia
 yakine.png	Yakine
 yakine_2.png	Yakine
-zithromax_500	Zithromax 500mg
+1but.jpg	1 but
+1cp.jpg	1 comprimé
+2cp-3j.jpg	2 comprimés par jour
+06-01-22.jpg	date
+20.jpg	20
+20(2).jpg	20
+50ml-3j.jpg	50ml pendant 3 jours
+500.jpg	500ml
+500(2).jpg	500ml
+6230.jpg	6230
+6695.jpg	6695
+24830.jpg	24830
+Ahmed-3.jpg	Ahmed
+angiplant.jpg	Angiplant Spray
+azro.jpg	azro
+bay.jpg	nom
+clarid.jpg	clarid
+clavor.jpg	clavor
+copred.jpg	copred
+cs-2.jpg	cs-2
+de-2.jpg	mot enchaînement
+Ecbu.jpg	résultat analyse
+eff.jpg	eff
+fl.jpg	fl
+jaziri-3.jpg	prénom
+jour.jpg	jour
+jrs.jpg	jours
+ml.jpg	ml
+pendant.jpg	pendant
+pivalone.jpg	pivalone
+prospan.jpg	prospan
+raouf-2.jpg	prénom
+rbm.jpg	rbm
+spascare80.jpg	spascare 80mg
+spray.jpg	spray
+ttc.jpg	ttc
+upfen200.jpg	upfen 200mg
+11-11-21.png	le 11 novembre 2021
+jbeli.png	Jbeli
+amine.png	Amina
+synalvic.png	Synalvic
+1_cp_2.png	1 complimé
+x.png	x
+pendant.png	pendant
+20_jours.png	20 jours
+glycemie.png	Glycémie
+a_jeun.png	à jeun
+urée.png	Urée
+créat.png	Créatinine
+a_urique.png	Acide urique
+calcémie.png	Calcémie
+phosphorémie.png	Phosphorémie
+nfs.png	NFS
+ferritinémie.png	Ferritinémie
+bilan.png	bilan
+lipidique.png	lipidique
+bilan_2.png	bilan
+magnésémie.png	Magnésémie
+tsh.png	TSH
+amina.png	Amina
+mhadhed.png	Mhadhed
+1.png	1
+ampule.png	ampule
+de.png	de
+décaline.png	Décaline
+1(2).png	1
+ampule(2).png	ampule
+de(2).png	de
+curacné.png	Curacné
+comprimé_par_jour.png	comprimé par jour
+pendant(2).png	pendant
+3(2).png	3
+14.png	14
+jour(2).png	jour
+par.png	par
+paquets.png	paquets
+complimé.png	complimé
+de(3).png	de
+19-10.png	le 19 octobre
+vitapred_20.png	Vitapred 20mg
+gastral_20mg.png	Gastral 20mg
+150_ml.png	150ml
+1_complimé.png	1 complimé
+1_jour.png	1 jour
+60_fois.png	60 fois
+augmentin.jpg	Augmentin
+panadol.jpg	Panadol
+neurologie.png	Neurologie
+ahmed.png	Ahmed
+tohri.png	tohri
+6.png	6
+3.png	3
+5.png	5
+1_2.png	1
+9.png	9
+2.png	2
+rivotril2mg.png	Rivotril 2mg
+2mois.png	2 mois
+deux.png	deux
+mois.png	mois
+β-HCG.png	β-HCG
+PMS-BOSENTAN.png	PMS-BOSENTAN
+1compliméparjour.png	1 complimé par jour
+Magnésémie_2.png	Magnésémie
+Électrophorèse_des_Protéines_Plasmatiques.png	Électrophorèse des Protéines Plasmatiques
+Créatinine_2.png	Créatinine
+Ionogramme_sanguin.png	Ionogramme sanguin
+glycemie(2).png	Glycémie
+Lus_-_B.png	Lus-B
+Acide_urique.png	Acide urique
